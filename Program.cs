@@ -6,7 +6,7 @@
         {
             // declare and initialize array grades
             int[] grades = new int[5];
-
+            //
             grades[0] = 20;
             grades[1] = 15;
             grades[2] = 12;
